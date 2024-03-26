@@ -1,0 +1,38 @@
+.journa-item{
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    padding: 20px;
+}
+
+.journa-item__header{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    font-style: normal;
+
+}
+
+.journa-item__date{
+font-size: 16px;
+font-weight: 400;
+line-height: 20.11px;
+color:rgba(255, 255, 255, 0.4);
+padding: 0;
+;
+}
+
+.journa-item__text{
+font-size: 16px;
+font-weight: 400;
+line-height: 20.11px;
+color: rgba(255, 255, 255, 0.6);
+overflow: hidden;
+}
+
+.journa-item__dody{
+    display: flex;
+    gap: 10px;
+}
+
+
