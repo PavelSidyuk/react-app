@@ -2,7 +2,7 @@
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/PavelSidyuk/react-app",
+  "homepage": "https://pavelsidyuk.github.io/react-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
