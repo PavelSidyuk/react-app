@@ -1,0 +1,13 @@
+.select{
+    padding: 10px;
+    background: none;
+    border-bottom: solid 1px #FFFFFF1A;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.select option{
+    color: black;
+}

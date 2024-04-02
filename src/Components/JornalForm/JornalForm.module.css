@@ -5,7 +5,6 @@
 }
 
 
-
 .input {
     font-family: "Source Sans 3", sans-serif;
     border: none;
@@ -19,17 +18,7 @@
     width: 100%;
 }
 
-.input-title {
-    font-family: "Source Sans 3", sans-serif;
-    border: none;
-    font-size: 32px;
-    font-weight: 600;
-    line-height: 40px;
-    background: none;
-    color: #FFFFFF;
-    border-bottom: solid 1px #FFFFFF1A;
-    width: 100%;
-}
+
 
 .form-row {
     display: flex;
@@ -57,3 +46,12 @@ input[type="date"]::-webkit-calendar-picker-indicator {
     border: solid 1px red;
     background: #b44848;
 }
+.delete{
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.delete:hover{
+    background: rgb(255, 255, 255, 0.05);
+}
+
